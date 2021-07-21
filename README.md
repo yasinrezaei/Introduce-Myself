@@ -3,8 +3,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=yasinrezaei.yasinrezaei)
 
   <!-- - 🌱 I’m currently learning everything -->
-  #👨‍🎓Student Of Computer Engineering
-  #Shiraz University
+  -👨‍🎓Student Of Computer Engineering
+  -Shiraz University
   
 ### Languages
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
