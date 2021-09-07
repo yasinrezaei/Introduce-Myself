@@ -1,6 +1,6 @@
 ### Hi there, I'm [Yasin Rezaei ](https://www.github.com/yasinrezaei)👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=yasinrezaei.yasinrezaei)
+
 
   <!-- - 🌱 I’m currently learning everything -->
   -👨‍🎓Student Of Computer Engineering
