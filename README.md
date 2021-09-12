@@ -3,7 +3,7 @@
 
 
   <!-- - 🌱 I’m currently learning everything -->
-  -👨‍🎓Student Of Computer Engineering at Shiraz University, iran
+  👨‍🎓Student Of Computer Engineering at Shiraz University, iran
  
   
 ### Languages
