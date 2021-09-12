@@ -3,9 +3,8 @@
 
 
   <!-- - 🌱 I’m currently learning everything -->
-  -👨‍🎓Student Of Computer Engineering
-  
-  -Shiraz University
+  -👨‍🎓Student Of Computer Engineering at Shiraz University, iran
+ 
   
 ### Languages
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
