@@ -3,7 +3,7 @@
 
 
   <!-- - 🌱 I’m currently learning everything -->
-  👨‍🎓Student Of Computer Engineering at Shiraz University, iran
+  👨‍🎓 Student Of Computer Engineering at Shiraz University, iran
  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinrezaei&show_icons=true&theme=algolia)
