@@ -13,5 +13,5 @@
 [![Telegram Badge](https://img.shields.io/badge/-Gmail-0088cc?style=flat-square&logo=Gmail&logoColor=white&color=red)](mailto:yasinrezaei@hotmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yasinrezaeo014)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/yasinrzi)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-e2405f?style=flat-square&logo=Linkedin&logoColor=white)](https://instagram.com/yasinrzi)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-00a05f?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-rezaei-66b056191/)
 
