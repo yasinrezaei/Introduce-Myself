@@ -23,5 +23,4 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yasinrezaeo014)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/yasinrzi)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasinrezaei&show_icons=true&line_height=40&theme=algolia)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinrezaei&show_icons=true&theme=algolia)
