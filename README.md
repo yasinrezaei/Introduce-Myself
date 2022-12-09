@@ -4,7 +4,7 @@ Hi 👋 My name is Yasin Rezaei
 Android Developer
 -----------------
 
-Student of computer engineering at shiraz university
+Student of computer engineering at shiraz university.
 
 * 🌍  I'm based in Iran,shiraz
 * ✉️  You can contact me at [yasinrezaei@hotmail.com](mailto:yasinrezaei@hotmail.com)
