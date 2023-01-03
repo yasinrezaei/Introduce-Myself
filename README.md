@@ -1,9 +1,5 @@
 Hi 👋 My name is Yasin Rezaei
 =============================
-
-Android Developer
------------------
-
 Student of computer engineering at shiraz university.
 
 * 🌍  I'm based in Iran,shiraz
