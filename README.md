@@ -5,8 +5,6 @@ Student of computer engineering at shiraz university.
 * 🌍  I'm based in Iran,shiraz
 * ✉️  You can contact me at [yasinrezaei@hotmail.com](mailto:yasinrezaei@hotmail.com)
 
-<a href="https://www.github.com/yasinrezaei" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/yasinrezaei?logo=github&style=for-the-badge&color=0891b2&labelColor=ffffff" /></a>
 
 ### Skills
 
