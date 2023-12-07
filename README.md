@@ -1,7 +1,5 @@
 Hi 👋 My name is Yasin Rezaei
 ==============================
-Student of computer engineering at shiraz university.
-
 * 🌍  I'm based in Iran, Tehran
 * ✉️  You can contact me at [yasinrezaei@hotmail.com](mailto:yasinrezaei@hotmail.com)
 
